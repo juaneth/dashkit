@@ -1,0 +1,18 @@
+{
+  "name": "@dashboardkitjs/cli",
+  "version": "1.0.0",
+  "description": "Install, manage and update dashboard kit through the CLI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ."
+  },
+  "author": "juanethdev",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "picocolors": "^1.0.1"
+  },
+  "devDependencies": {}
+}
