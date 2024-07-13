@@ -1,3 +1,3 @@
 # @dashboardkitjs/cli
 
-## Install, manage and update dashboard kit through the CLI
+## Install, manage and update DashboardKit through the CLI
